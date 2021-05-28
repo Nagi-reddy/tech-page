@@ -35,9 +35,7 @@ footer{
  bottom: 0;
 }
 i:hover{
-    box-shadow: 1px #000000;
-    color:black;
-    opacity: 1; 
+    color:white; 
 }
 .footer1{
     display: flex;
@@ -56,5 +54,5 @@ opacity: .5;
 }
 i{
     font-size: 35px;
-color:white;
+color:firebrick;
 }

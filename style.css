@@ -53,6 +53,10 @@ opacity: .5;
     text-align: center;
 }
 i{
-    font-size: 35px;
-color:firebrick;
+    font-size: 1.5em;
+color:black;
+    padding:10px;
 }
+h1{
+    font-size:2em;
+    
